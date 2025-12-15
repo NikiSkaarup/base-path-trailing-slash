@@ -12,7 +12,7 @@ layout in the `Caddyfile`
 
 - `http://localhost:3000/...` --> `localhost:5173/...`
 - `http://localhost:3000/somepath/...` --> `localhost:5174/...`
-- `http://localhost:3000/otherpath/...` --> `localhost:5174/...`
+- `http://localhost:3000/otherpath/...` --> `localhost:5175/...`
 
 ## Setup sample app
 
